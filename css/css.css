@@ -1,0 +1,163 @@
+﻿body{
+    font-family:montserrat;
+    background-color:honeydew;
+}
+nav{
+    background-color:honeydew; 
+    
+}
+nav ul{
+    float:right ;
+    margin:10px ;
+    padding:0px;
+    font-family:"Kameron",Georgia,serif ;
+}
+label.one{
+    color: black;
+    background-color: honeydew;
+    font-size: 28px;
+    padding:50px;
+    line-height: 120px;
+    font-weight:bold ;
+}
+nav ul li{
+    display:inline-block;
+    line-height: 0px;
+    margin: 40px;
+    color: white;
+    height:0px;
+}
+.class1{
+    text-align:center;
+}
+img{
+    vertical-align:middle;
+}
+
+nav ul a{
+    color: black;
+    background-color:honeydew ;
+}
+nav ul{
+    background-color:honeydew ;
+}
+h1 {
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color:black;
+    background-color:honeydew;
+    text-align:center;
+}
+.ww {
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+nav ul a:hover{
+    color:blue;
+}
+.pasta{
+    display:inline-block;
+    vertical-align:middle;
+}
+.heading{
+    display:inline-block;
+    vertical-align:middle;
+    color:honeydew;
+    line-height:50px;
+}
+ button:hover{
+    color:blue;
+}
+.button {
+    text-align: center;
+    vertical-align: middle;
+    line-height:100px;
+}
+
+button {
+    background-color: red;
+    color: white;
+    font-size: 25px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    
+}
+.header5 {
+    text-align: center;
+}
+
+dl {
+    margin: 20px;
+}
+.photo {
+    display:inline-block;
+    width: 350px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    line-height:25px;
+    vertical-align:middle;
+}
+.section3 {
+    display:inline-block;
+    width:570px;
+    vertical-align:middle;
+    line-height:20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.wing {
+    display: inline-block;
+    vertical-align:middle;
+    line-height:50px;
+}
+.banner{
+    display:inline-block;
+    vertical-align:middle;
+}
+.stromboli{
+    display:inline-block;
+    vertical-align:middle;
+}
+.banner1{
+    display: inline-block;
+    vertical-align: middle;
+}
+.section4{
+    display:inline-block;
+    vertical-align:middle;
+}
+dt{
+    font-size:20px;
+    color:red;
+}
+.section4{
+    width:570px;
+}
+h5 {
+    line-height: 50px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+footer{
+    background-color:honeydew;
+    height:0px;
+}
+
+
+ul {
+    font-family: "Kameron",Georgia,serif;
+    float:left;
+
+}
+li {
+        display:inline-block;
+        margin: 50px;
+        line-height:0px;
+    }
+footer ul a:hover{
+    color:blue;
+}
+footer ul a{
+    color:black;
+}
+.aa{
+   line-height:200px;
+}
+
+
+

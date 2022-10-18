@@ -1,0 +1,21 @@
+﻿body 
+{
+    background-color: honeydew;
+}
+.Payment 
+{
+    width: 320px;
+    height: 420px;
+    background-color: honeydew;
+    top: 50%;
+    left: 50%;
+    position: absolute;
+    transform: translate(-50%,-50%);
+    box-sizing: border-box;
+    text-align: center;
+}
+
+.Payment input
+{
+   width: 90%;
+}

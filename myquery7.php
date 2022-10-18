@@ -1,0 +1,24 @@
+<?php
+require_once("connect2.php");
+if(isset($_POST["login"]))
+{
+    if(empty($_POST['username'])||empty($_POST['password1']))
+    {
+        header("location:login1.php");
+    }
+}
+else
+{
+    $sql_select="SELECT * FROM adminstrator where Username='".$_POST['username']."' and Password='".$_POST['my_password']."'";
+    $result=$conn->query($sql_select);
+    if($result->fetch_assoc())
+    {
+        $_SESSION['username1']=$_POST['username'];
+        header("location:Adminpanel1.php");
+    }
+    else
+    {
+        header("location:login1.php");
+    }
+}
+?>
